@@ -1,0 +1,3 @@
+--> In my opinion, video tag automation tool is feasible. First of all, we need to tag a large number of videos manually from different platforms such as Facebook, Instagram, e.t.c or use can some publically available dataset. For Neural Network to work better we need a large amount of training set and tagging it manually can be the first big challenge. 
+
+--> We can create NLP model[Many to Many] using the audio feature and Computer Vision model using frames to create our final automated video tag tool. I'm worried about the latency part and this can be taken as the second big challenge. 
